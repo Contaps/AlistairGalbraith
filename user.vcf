@@ -7,7 +7,7 @@ ORG:GFS Fresh;
 TITLE:Sales Manager / Industrial
 EMAIL;type=INTERNET;type=WORK;type=pref:alistair@gfsfresh.co.uk	
 TEL;type=WORK;type=VOICE:07368608344
-item1.ADR;type=WORK;type=pref:;;Haddonsacre, Station Rd, Offenham, Evesham WR11 8JJ
+item1.ADR;type=WORK;type=pref:;;GFS Fresh Ltd, Kingsland Farm, 235 March Road, Coates, Whittlesey,Cambs, PE7 2DE
 item1.X-ABADR:sg
 item2.URL;type=pref:gfsfresh.co.uk
 item2.X-ABLabel:_$!<HomePage>!$_
